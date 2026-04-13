@@ -2,6 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=ronnielgandhe&color=blue&base=1374)
 **prev waterloo CS & laurier BBA**
+
 **shipping > planning**
 
 i spend most of my time building things i actually care about.
