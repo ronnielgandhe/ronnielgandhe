@@ -1,5 +1,7 @@
 # hey, i'm ronniel 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=ronnielgandhe&color=blue&base=1374)
+
 **shipping > planning**
 
 i spend most of my time building things i actually care about.
