@@ -1,14 +1,10 @@
-# hey, i'm ronniel 👋
+# hey, i'm ronniel 
 
 ![Profile views](https://komarev.com/ghpvc/?username=ronnielgandhe&color=blue&base=1374)
 
-**prev waterloo CS & laurier BBA**
-
 **shipping > planning**
 
-i spend most of my time building things i actually care about.
-
----
+i spend most of my time building things i actually care about. previously @ waterloo CS double degree. 
 
 ### what i'm building
 
