@@ -1,8 +1,8 @@
 # hey, i'm ronniel 👋
 
-**building AI dev tools. ex-waterloo CS. shipping > planning.**
+**shipping > planning**
 
-i dropped out of waterloo's CS/BBA double degree because the standard path was too slow — now i spend most of my time building things i actually care about.
+i spend most of my time building things i actually care about.
 
 ---
 
