@@ -4,35 +4,37 @@
 
 **shipping > planning**
 
-i spend most of my time building things i actually care about. previously @ waterloo CS double degree. 
+previously @ waterloo CS/BBA double degree. 
+
+---
+
+### about me
+
+- love to sell, design, and present ideas just as much as building them
+- think about how users actually use things, not just the technical problem
+- me, my dog, and my claude subscription against the world
+- currently based in toronto
+
 
 ### what i'm building
 
-🔍 **[LeanFetch](https://github.com/ronnielgandhe/leanfetch)**;  a tool that stops 90% of startups from losing 90% of their cash to unnecessary api calls. `react` `node` `anthropic API`
+🔍 **[LeanFetch](https://github.com/ronnielgandhe/leanfetch)**.  a tool that stops 90% of startups from losing 90% of their cash to unnecessary api calls. `react` `node` `anthropic API`
 
-🔎 **[CreatorScope](https://github.com/ronnielgandhe/creatorscope)**; finding the next generation of creators before the UGC economy eats marketing whole. `python`
+🔎 **[CreatorScope](https://github.com/ronnielgandhe/creatorscope)**. finding the next generation of creators before the UGC economy eats marketing whole. `python`
 
-🎮 **[LinkedInAimbot](https://github.com/ronnielgandhe/linkedin-games-solver)**; solve linkedin games in <2sec for when you're tired of losing. inspired me to build one for wordle too; **[NYTimesHacked](https://github.com/ronnielgandhe/nyt-games-solver)**
+🎮 **[LinkedInAimbot](https://github.com/ronnielgandhe/linkedin-games-solver)**. solve linkedin games in <2sec for when you're tired of losing. inspired me to build one for wordle too. **[NYTimesHacked](https://github.com/ronnielgandhe/nyt-games-solver)**
 
 
 ---
 
 ### tech i work with
 
-**languages:** Python, JavaScript/TypeScript, Node.js, SQL  
-**frontend:** React, Next.js, Tailwind CSS, Vite  
-**backend:** Express, REST APIs, WebSockets, NDJSON streaming  
-**AI/ML:** Anthropic API, OpenAI API, prompt engineering, model routing, RAG  
-**infra:** Git, Vercel, Chrome Extension APIs, PDF/DOCX parsing  
+**languages:** python, javascript/typescript, node.js, sql  
+**frontend:** react, next.js, tailwind, vite  
+**backend:** express, rest apis, websockets, ndjson streaming  
+**AI/ML:** anthropic api, openai api, prompt engineering, model routing, rag  
+**infra:** git, vercel, chrome extension apis, pdf/docx parsing  
 
----
-
-### about me
-
-- grew up running my parents' jewelry store — learned to sell before i learned to code
-- built CRMs, websites, and business tools from scratch before AI made it easy
-- i think about how users actually use things, not just the technical problem
-- currently based in toronto
 
 ---
 
