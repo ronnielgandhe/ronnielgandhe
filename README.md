@@ -8,9 +8,9 @@ previously @ waterloo CS/BBA double degree.
 
 ### currently building
 
-🔍 **[LeanFetch](https://github.com/ronnielgandhe/leanfetch)**. a tool that stops 90% of startups from losing 90% of their cash to unnecessary api calls. `react` `node` `anthropic API`
+🔍 **[LeanFetch](https://github.com/ronnielgandhe/leanfetch)**. a tool that stops 90% of startups from losing 90% of their cash to unnecessary api calls.
 
-🔎 **[CreatorScope](https://github.com/ronnielgandhe/creatorscope)**. finding the next generation of creators before the UGC economy eats marketing whole. `python`
+🔎 **[CreatorScope](https://github.com/ronnielgandhe/creatorscope)**. finding the next generation of creators before the UGC economy eats marketing whole. 
 
 🎮 **[LinkedInAimbot](https://github.com/ronnielgandhe/linkedin-games-solver)**. solve linkedin games in <2sec for when you're tired of losing. inspired me to build one for wordle too. **[NYTimesHacked](https://github.com/ronnielgandhe/nyt-games-solver)**
 
