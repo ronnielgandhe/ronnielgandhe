@@ -8,7 +8,7 @@ i spend most of my time building things i actually care about. previously @ wate
 
 ### what i'm building
 
-🔍 **[LeanFetch](https://github.com/ronnielgandhe/leanfetch)** — LLM API cost auditor that scans codebases for inefficiency patterns before they hit production. 7-phase scanning pipeline, hybrid AI triage, 15+ provider coverage. `react` `node` `anthropic API`
+🔍 **[LeanFetch](https://github.com/ronnielgandhe/leanfetch)** — a tool that stops 90% of startups from losing 90% of their cash to unnecessary api calls. `react` `node` `anthropic API`
 
 🔎 **[CreatorScope](https://github.com/ronnielgandhe/creatorscope)** — TikTok UGC creator discovery tool. `python`
 
