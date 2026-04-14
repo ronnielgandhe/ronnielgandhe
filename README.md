@@ -12,7 +12,7 @@ i spend most of my time building things i actually care about. previously @ wate
 
 🔎 **[CreatorScope](https://github.com/ronnielgandhe/creatorscope)**, finding the next generation of creators before the UGC economy eats marketing whole. `python`
 
-🎮 **[LinkedIn Games Solver](https://github.com/ronnielgandhe/linkedin-games-solver)**, cheat on any linkedin game in <2 seconds for when you're tired of sucking at puzzles . `javascript` `chrome extensions`
+🎮 **[LinkedInAimbot](https://github.com/ronnielgandhe/linkedin-games-solver)**, solve linkedin games in <2sec for when you're tired of losing . `javascript` `chrome extensions`
 
 
 
