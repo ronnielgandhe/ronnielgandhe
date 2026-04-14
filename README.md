@@ -12,7 +12,7 @@ previously @ waterloo CS/BBA double degree.
 
 🔎 **[CreatorScope](https://github.com/ronnielgandhe/creatorscope)**. finding the next generation of creators before the UGC economy eats marketing whole. 
 
-🎮 **[LinkedInAimbot](https://github.com/ronnielgandhe/linkedin-games-solver)**. solve linkedin games in <2sec for when you're tired of losing. inspired me to build one for wordle too. 🎮 **[NYTimesHacked](https://github.com/ronnielgandhe/nyt-games-solver)**
+🎮 **[LinkedInAimbot](https://github.com/ronnielgandhe/linkedin-games-solver)**. solve linkedin games in <2sec for when you're tired of losing. inspired me to build one for wordle too.**[NYTimesHacked](https://github.com/ronnielgandhe/nyt-games-solver)**
 
 ---
 
