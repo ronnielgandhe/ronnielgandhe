@@ -12,8 +12,7 @@ i spend most of my time building things i actually care about. previously @ wate
 
 🔎 **[CreatorScope](https://github.com/ronnielgandhe/creatorscope)**, finding the next generation of creators before the UGC economy eats marketing whole. `python`
 
-🎮 **[LinkedInAimbot](https://github.com/ronnielgandhe/linkedin-games-solver)**, solve linkedin games in <2sec for when you're tired of losing . `javascript` `chrome extensions`
-
+🎮 **[LinkedInAimbot](https://github.com/ronnielgandhe/linkedin-games-solver)**, solve linkedin games in <2sec for when you're tired of losing. inspired me to build one for wordle too **[NYTimesHacked](https://github.com/ronnielgandhe/nyt-games-solver))**
 
 
 ---
