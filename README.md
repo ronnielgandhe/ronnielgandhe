@@ -10,13 +10,11 @@ i spend most of my time building things i actually care about. previously @ wate
 
 🔍 **[LeanFetch](https://github.com/ronnielgandhe/leanfetch)** — LLM API cost auditor that scans codebases for inefficiency patterns before they hit production. 7-phase scanning pipeline, hybrid AI triage, 15+ provider coverage. `react` `node` `anthropic API`
 
-🎮 **[LinkedIn Games Solver](https://github.com/ronnielgandhe/linkedin-games-solver)** — chrome extension with organic users. reverse-engineered LinkedIn's game APIs. `javascript` `chrome extensions`
-
-📈 **[QuantZoo](https://github.com/ronnielgandhe/quantzoo)** — quant backtesting framework with event-driven architecture. `python` `websockets`
-
 🔎 **[CreatorScope](https://github.com/ronnielgandhe/creatorscope)** — TikTok UGC creator discovery tool. `python`
 
-📰 **[YourNews](https://github.com/ronnielgandhe/yournews)** — personalized news aggregator, minus the noise. `typescript` `react`
+🎮 **[LinkedIn Games Solver](https://github.com/ronnielgandhe/linkedin-games-solver)** — chrome extension with organic users. reverse-engineered LinkedIn's game APIs. `javascript` `chrome extensions`
+
+
 
 ---
 
