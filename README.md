@@ -1,6 +1,5 @@
 # hey, i'm ronniel 
 
-![Profile views](https://komarev.com/ghpvc/?username=ronnielgandhe&color=blue&base=1374)
 
 **shipping > planning**
 
@@ -34,3 +33,5 @@ previously @ waterloo CS/BBA double degree.
 
 **portfolio:** [ronnielgandhe.com](https://www.ronnielgandhe.com/)  
 **linkedin:** [linkedin.com/in/ronnielgandhe](https://www.linkedin.com/in/ronnielgandhe/)
+
+![Profile views](https://komarev.com/ghpvc/?username=ronnielgandhe&color=blue&base=1374)
