@@ -8,9 +8,11 @@ previously @ waterloo CS/BBA double degree.
 
 ### currently building
 
+🔎 **[harvey](https://github.com/ronnielgandhe/harvey)**. talk to harvey from suits to help with your interesting legal situations. 
+
+
 🔍 **[LeanFetch](https://github.com/ronnielgandhe/leanfetch)**. a tool that stops 90% of startups from losing 90% of their cash to unnecessary api calls.
 
-🔎 **[harvey](https://github.com/ronnielgandhe/harvey)**. talk to harvey from suits to help with your interesting legal situations. 
 
 🎮 **[LinkedInAimbot](https://github.com/ronnielgandhe/linkedin-games-solver)**. solve linkedin games for when you're tired of losing. inspired me to build one for wordle too. **[NYTAimbot](https://github.com/ronnielgandhe/nyt-games-solver)**
 
